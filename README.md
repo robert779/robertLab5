@@ -82,8 +82,8 @@
         <h2>Меню</h2>
     <ul>
       <li><a href="index.html">Grid CSS</a></li>
-      <li><a href="flex.html">Flex CSS</a></li>
-      <li><a href="css.html">Just CSS</a></li>
+      <li>Flex CSS</a></li>
+      <li>Just CSS</a></li>
     </ul>
   </div>
   <div class="bottom"><p>У п’ятницю – щасливі години:</p><p> -20% на все пиво!</p></div>
